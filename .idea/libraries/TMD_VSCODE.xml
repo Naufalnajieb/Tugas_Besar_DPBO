@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="TMD_VSCODE">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/TP6_FlappyBird.zip!/" />
+      <root url="jar://$PROJECT_DIR$/DPBO_MVVM.zip!/" />
+      <root url="jar://$PROJECT_DIR$/TP5.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
